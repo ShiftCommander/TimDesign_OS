@@ -1,0 +1,14 @@
+source_path,decision,vnext_path,reason
+01_Strategy/strategy_timdesign_2026_positioning_site_structure.md,merged,01_Strategy/timdesign_positioning.md,current positioning and site direction
+02_Offers/positionnement_premium_immobilier.md,merged,01_Strategy/timdesign_positioning.md,current canonical value proposition
+02_Offers/offre_signature_sprint_immobilier.md,merged,02_Offers/signature_sprint_immobilier.md,main offer retained and tightened
+02_Offers/audit_conformite_cookies_premium.md,merged,02_Offers/cookie_compliance_audit.md,secondary offer retained with guardrail
+03_Prospection/protocole_prospection_notion_to_os.md,merged,03_Prospection/prospection_operating_loop.md,Notion/OS boundary retained
+05_Templates/template_prospect_to_deal_brief.md,rewritten,05_Templates/prospect_to_deal_brief.md,active template simplified
+05_Templates/template_client_discovery_alignment_brief.md,rewritten,05_Templates/client_discovery_alignment_brief.md,active template simplified
+05_Templates/template_case_study_timdesign.md,rewritten,05_Templates/case_study_template.md,active proof template simplified
+06_Content_AI/protocole_portfolio_preuves_commerciales.md,merged,06_Content_AI/proof_assets_protocol.md,proof asset protocol retained
+07_System/system_rules_index_master.md,partially_merged,07_System/system_active_os_rules.md,active OS philosophy retained without old patch logs
+07_System/system_*command_log*.md,left_out,,generated logs not active truth
+07_System/system_*patch*.md,left_out,,old patch artifacts not active truth
+old_archive_material,left_out,,not part of active OS
