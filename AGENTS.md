@@ -1,5 +1,27 @@
 # TimDesign_OS - Agent Instructions
 
+## Agent Boot Sequence
+
+Before doing any work in this repository, read:
+
+1. `BOOTSTRAP.md`
+2. `ai_context/os_index.md`
+3. the relevant files listed in the OS index
+
+Use this repo's OS context before asking Timtim for information that may already be documented.
+
+When durable knowledge appears, update the matching OS file in `ai_context/`.
+
+Key routing files:
+
+- `BOOTSTRAP.md`
+- `ai_context/os_index.md`
+- `ai_context/knowledge_profile.md`
+- `ai_context/tool_registry.md`
+- `ai_context/project_registry.md`
+- `ai_context/skills_registry.md`
+- `ai_context/agent_operating_protocol.md`
+
 ## Purpose
 
 This repository is the active AI-operable TimDesign_OS.
@@ -48,6 +70,7 @@ Use this structure:
 - `05_Templates/`
 - `06_Content_AI/`
 - `07_System/`
+- `ai_context/`
 
 Create extra top-level folders only when they clearly reduce future maintenance.
 
