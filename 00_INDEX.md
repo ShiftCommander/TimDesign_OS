@@ -12,6 +12,7 @@ This repository is the active OS. Notion remains the live operational workspace.
 - Prospection: `03_Prospection/prospection_operating_loop.md`
 - Templates: `05_Templates/`
 - Proof/content: `06_Content_AI/proof_assets_protocol.md`
+- Light architectural design system: `06_Content_AI/timdesign_light_architectural_design.md`
 - System rules: `07_System/system_active_os_rules.md`
 
 ## Operating Rule
